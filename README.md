@@ -20,7 +20,7 @@ the tagged keys were last left. The application runs using flask, flask-ask, and
 
 Clone this repo
 ```
-git clone 
+git clone https://github.com/smellslikeml/ble_keyfinder.git
 ```
 
 Install the required dependencies.
