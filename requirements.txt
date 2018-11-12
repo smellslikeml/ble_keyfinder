@@ -1,0 +1,8 @@
+flask
+flask_ask
+configparser
+pybluez
+boto3
+parallel-ssh
+pexpect
+
