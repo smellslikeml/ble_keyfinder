@@ -5,4 +5,8 @@ pybluez
 boto3
 parallel-ssh
 pexpect
-
+numpy
+matplotlib
+pandas
+xgboost
+scikit-learn
