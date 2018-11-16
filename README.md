@@ -8,6 +8,7 @@ the tagged keys were last left. The application runs using flask, flask-ask, and
 * [Bluetooth Beacons](https://www.amazon.com/gp/product/B077ZGGYY7/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 
 ## Software
+* Python 3
 * [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 * [Flask](http://flask.pocoo.org/)
 * [Flask-Ask](http://flask-ask.readthedocs.io/en/latest/)

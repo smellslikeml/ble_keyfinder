@@ -1,4 +1,4 @@
-#!/home/funk/anaconda3/bin/python
+#!/usr/bin/env python
 import sys
 import configparser
 from bluetooth.ble import DiscoveryService
