@@ -52,5 +52,5 @@ The app.py file contains the application. You want to replace the appropriate fi
 Now, tell Alexa what you want: "Alexa, ask retriever to find my keys?"
 
 ## Learn More
-Go to our [Hackster.io post](https://www.hackster.io/home_skillet/alexa-where-are-my-keys-aa0e82) to see the full instructions on constructing this Alexa skill. 
+Go to our [blog post](http://smellslikeml.com/ble_keyfinder.html) to see the full instructions on constructing this Alexa skill. 
 
