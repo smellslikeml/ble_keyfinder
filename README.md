@@ -1,7 +1,7 @@
 # BLE-Keyfinder
 
 An Amazon Alexa application to find lost items using bluetooth. It uses an xgboost model to locate the most likely place
-the tagged keys were last left. The application runs using flask, flask-ask, and ngrok.
+the tagged keys were last left. This demo runs using flask, flask-ask, and ngrok.
 
 ## Hardware
 * [Any Amazon Alexa Echo](https://www.amazon.com/gp/product/B01DFKC2SO/ref=s9_acsd_al_bw_c_x_1_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-4&pf_rd_r=Q924P0APNQ9M7QVMV2D0&pf_rd_r=Q924P0APNQ9M7QVMV2D0&pf_rd_t=101&pf_rd_p=4dc5e960-6892-4959-a18f-2e32ecb3b2b6&pf_rd_p=4dc5e960-6892-4959-a18f-2e32ecb3b2b6&pf_rd_i=9818047011)
